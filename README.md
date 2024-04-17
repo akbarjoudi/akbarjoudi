@@ -11,10 +11,10 @@ I consider myself a hardworking and curious developer, I started my career as a 
 
 In these years, I worked with many languages and technologies that I turned to according to my needs, and it's okay to mention some of them :)
 
-![Laravel](https://img.shields.io/badge/laravel-%2320232a.svg?style=flat&logo=laravel&logoColor=%a4c639)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%2320232a.svg?style=flat&logo=laravel&logoColor=%a4c639)
 ![Yii](https://img.shields.io/badge/Yii-%230175C2.svg?style=flat&logo=Yii&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
 ![Vue.js](https://img.shields.io/badge/Vue.Js-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D)
 ![Quasar.js](https://img.shields.io/badge/Quasar-1867C0?style=flat&logo=quasar&logoColor=AEDDFF)
