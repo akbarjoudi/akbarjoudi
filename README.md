@@ -24,6 +24,9 @@ In these years, I worked with many languages and technologies that I turned to a
 
 ## GitHub Status
 
+
+[![](https://github-readme-streak-stats.herokuapp.com/?user=akbarjoudi&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=46DD4E)](https://github.com/anuraghazra/github-readme-stats)
+
 [![](https://github-readme-stats.vercel.app/api?username=akbarjoudi&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=akbarjoudi&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
