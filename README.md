@@ -1,4 +1,4 @@
-# Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm [akbar joudi](https://github.com/akbarjoudi)
+# Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm [akbar jodi](https://github.com/akbarjoudi)
 
 I consider myself a hardworking and curious developer, I started my career as a web developer in 2008 and have been working as a technical manager since 2020.
 
